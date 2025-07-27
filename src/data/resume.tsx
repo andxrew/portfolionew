@@ -3,7 +3,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react"
 
 export const DATA = {
 	name: "Andrew Sodeinde",
-	initials: "AS",
+	initials: "AS  ",
 	url: "https://andrewsodeinde.uk",
 	location: "Manchester, UK",
 	locationLink: "https://www.google.com/maps/place/manchester",
