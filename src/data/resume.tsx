@@ -253,7 +253,7 @@ export const DATA = {
 		{
 			title: "Student Academic Support Volunteer",
 			dates: "2022 - 2024",
-			// location: "London, Ontario",
+			location: "",
 			description:
 				"Served as a Volunteer Student Mentor, offering 1-to-1 support sessions to help peers better understand academic content and improve their grades.",
 			image: "gradcap.png",
@@ -270,7 +270,7 @@ export const DATA = {
 		{
 			title: "Won my first hackathon",
 			dates: "July 2024",
-			// location: "Manchester, Obviously",
+			location: "",
 			description:
 				"During my internship at Barclays, us interns were pitted against each other in a hackathon. My team won by scheming an EXTREMELY creative solution to tackle finance literacy in the UK.",
 			image: "1st.png",
@@ -279,7 +279,7 @@ export const DATA = {
 		{
 			title: "First PC Build",
 			dates: "October, 2024",
-			// location: "London, Ontario",
+			location: "",
 			description:
 				"Specs: Gigabyte Aorus x870e, Ryzen 5 5600X,Gigabyte Aorus RTX 3070, 32GB Corsair Dominator 7200MT/s RAM, 2TB Wd Black SN850X SSD, Corsair 3500X Case, Corsair 1000w PSU, Corsair H150 Icue Link 360mm AIO",
 			image: "screwd.png",
@@ -288,7 +288,7 @@ export const DATA = {
 		{
 			title: "Learning to play six strings",
 			dates: "November, 2024? i think",
-			// location: "London, Ontario",
+			location: "",
 			description: "Why listen to music when you can make it?",
 			image: "guitar.png",
 			links: [],
@@ -296,7 +296,7 @@ export const DATA = {
 		{
 			title: "2nd PC Build",
 			dates: "May, 2025",
-			// location: "Waterloo, Ontario",
+			location: "",
 			description:
 				"Went a lot worse than the first one. Specs: AMD Ryzen 5 9600X, Gigabyte B850 EAGLE WIFI6E, Zotac SOLID SFF OC RTX 5070 Ti, 32GB G.Skill Ripjaws DDR5-6400 RAM, 2TB Crucial P310 NVMe SSD, Montech XR ATX Case, Corsair RM1000e 1000W PSU, Montech HyperFlow ARGB 360mm AIO",
 			image: "boom.png",
@@ -305,7 +305,7 @@ export const DATA = {
 		{
 			title: "Mentor",
 			dates: "July, 2025",
-			// location: "San Francisco, California",
+			location: "",
 			description:
 				"Shared what I knew, pretended to know what I didn’t - it's been a flying success so far. Knowledge really is power, eh?",
 			icon: "public",
