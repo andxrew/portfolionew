@@ -225,23 +225,23 @@ export const DATA = {
 			technologies: [
 				"Next.js",
 				"Typescript",
-				"PostgreSQL",
 				"Prisma",
 				"TailwindCSS",
 				"Shadcn UI",
-				"Magic UI",
 				"Stripe",
-				"Cloudflare Workers",
+				"OpenAI API",
+				"Clerk",
+				"Google Auth",
 			],
 			links: [
 				{
 					type: "Website",
-					href: "https://llm.report",
+					href: "https://flair-ai.vercel.app",
 					icon: <Icons.globe className="size-3" />,
 				},
 				{
 					type: "Source",
-					href: "https://github.com/dillionverma/llm.report",
+					href: "https://github.com/andxrew/FlairAI",
 					icon: <Icons.github className="size-3" />,
 				},
 			],
