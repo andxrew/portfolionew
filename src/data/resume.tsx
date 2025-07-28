@@ -235,14 +235,14 @@ export const DATA = {
 			],
 			links: [
 				{
-					type: "Website",
-					href: "https://flair-ai.vercel.app",
-					icon: <Icons.globe className="size-3" />,
-				},
-				{
 					type: "Source",
 					href: "https://github.com/andxrew/FlairAI",
 					icon: <Icons.github className="size-3" />,
+				},
+				{
+					type: "Website",
+					href: "https://flair-ai.vercel.app",
+					icon: <Icons.globe className="size-3" />,
 				},
 			],
 			image: "",
